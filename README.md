@@ -1,6 +1,21 @@
-# Alcohol Consumption
+📊 Alcohol Consumption Dashboard (Power BI)
 
-This folder contains the data behind the story [Dear Mona Followup: Where Do People Drink The Most Beer, Wine And Spirits?](http://fivethirtyeight.com/datalab/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/)
+📌 Overview
 
-Units: Average serving sizes per person
-Source: World Health Organisation, Global Information System on Alcohol and Health (GISAH), 2010
+This repository contains an interactive Power BI dashboard designed to analyze alcohol consumption data. The dashboard provides key insights, trends, and visualizations to better understand consumption patterns across different categories, regions, and time periods.
+
+🎯 Objectives
+
+To visualize alcohol consumption trends.
+
+To compare consumption across different demographics or regions.
+
+To identify patterns and insights for data-driven decision-making.
+
+🛠️ Tools & Technologies
+
+Power BI Desktop for data modeling and visualization.
+
+Data Sources: CSV, Excel, SQL Database etc.
+
+<img width="1331" height="742" alt="image" src="https://github.com/user-attachments/assets/5c5eaaf3-3715-4ebf-a0a3-16bf29cd7fa2" />
