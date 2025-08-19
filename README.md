@@ -18,4 +18,8 @@ Power BI Desktop for data modeling and visualization.
 
 Data Sources: CSV, Excel, SQL Database etc.
 
+📢 Author
+
+Created by [JuherKhan] – feel free to connect on LinkedIn www.linkedin.com/in/juher-khan-127490338 or reach out for collaboration.
+
 <img width="1331" height="742" alt="image" src="https://github.com/user-attachments/assets/5c5eaaf3-3715-4ebf-a0a3-16bf29cd7fa2" />
