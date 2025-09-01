@@ -2,7 +2,7 @@
 
 📌 Overview
 
-This repository contains an interactive Power BI dashboard designed to analyze alcohol consumption data. The dashboard provides key insights, trends, and visualizations to better understand consumption patterns across different categories, regions, and time periods.
+This project is an interactive Power BI dashboard designed to analyze alcohol consumption data. The dashboard provides key insights, trends, and visualizations to better understand consumption patterns across different categories, regions, and time periods.
 
 🎯 Objectives
 
