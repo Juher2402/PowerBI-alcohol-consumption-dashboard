@@ -16,7 +16,7 @@ To identify patterns and insights for data-driven decision-making.
 
 Power BI Desktop for data modeling and visualization.
 
-Data Sources: CSV, Excel, SQL Database etc.
+Data Sources: CSV File.
 
 📢 Author
 
